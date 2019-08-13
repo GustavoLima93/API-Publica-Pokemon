@@ -12,9 +12,9 @@
 
 - Link para utilizacao da API  https://pokemon-apiv2.herokuapp.com  
 - Todos os verbos sāo GET  
-- FindAll : /pokemons?page=1&itemsPerPage=25 , onde a page e o itemsPerPage sāo obrigatorios   
+- FindAll : /pokemons?page=1&itemsPerPage=25 , onde a page e o itemsPerPage sāo obrigatórios   
 - FindById : /pokemons/{id}, Ex: /pokemons/1  
-- SearchByName: /pokemons/nome?search=bulba, onde o search é obrigatorio  
+- SearchByName: /pokemons/nome?search=bulba, onde o search é obrigatório  
 
 # Futuras Implementaçōes
 
